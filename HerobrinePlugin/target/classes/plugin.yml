@@ -1,0 +1,4 @@
+name: HerobrinePlugin
+version: '1.0-SNAPSHOT'
+main: jp.herobrineplugin.HerobrinePlugin
+api-version: 1.19

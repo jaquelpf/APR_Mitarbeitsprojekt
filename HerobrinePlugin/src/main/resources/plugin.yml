@@ -1,0 +1,4 @@
+name: HerobrinePlugin
+version: '${project.version}'
+main: jp.herobrineplugin.HerobrinePlugin
+api-version: 1.19

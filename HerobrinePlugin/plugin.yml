@@ -1,0 +1,14 @@
+name: MasterHerobrine
+main: jp.herobrineplugin.HerobrinePlugin
+version: 1.19.4
+author: JP
+
+enderman:
+enable-pumbkin-invisibility: false
+enable-friendly-enderman: false
+enable-teleportation: true
+enable-water-damage: false
+enable-silk-touch: false
+
+max-hight-diffrence: 100
+teleport-distance: 50
